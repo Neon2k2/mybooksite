@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Ephesis&family=Niconne&display=swap');@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Ephesis&family=Josefin+Sans:wght@500&family=Niconne&display=swap');
+
+
+
+.book{
+  width: 60%;
+  padding: 5% 20%;
+  text-align: center;
+  background-color: white;
+}
+
+body{
+  background-color: white;
+}
+h1{
+  font-family: 'Ephesis', cursive;
+  color:  #dd2476;
+  font-size: 3rem;
+}
+p{
+
+  font-family: 'Josefin Sans', sans-serif;
+}
+.read{
+  padding: 20% 20%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
